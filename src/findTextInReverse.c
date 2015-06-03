@@ -20,8 +20,8 @@
 int findTextInReverse (char *text, char *wordToFind )
 {
   signed int i = 0 , 
-			 j = 0 , 
-			 k = 0 ;
+             j = 0 , 
+             k = 0 ;
   
   while( *(text + i) != 0)
   {
